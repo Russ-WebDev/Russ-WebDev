@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="russ-webdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russ-webdev" alt="russ-webdev" /></a> </p>
 
 - 🔭 I’m currently working on a Ticketing System **MEC Ticketing System**
 
@@ -27,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russ-webdev&" alt="russ-webdev" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russ-webdev" alt="russ-webdev" /></a> </p>
