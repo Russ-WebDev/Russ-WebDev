@@ -55,3 +55,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Russ-WebDev/Russ-WebDev/output/snake.svg" alt="Snake animation" />
+
+###
